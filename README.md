@@ -11,6 +11,8 @@ Project Name
 
 This is a skeleton for javascript projects.
 
+![Image of Project](screenshot.png)
+
 
 ### About
 
