@@ -1,7 +1,6 @@
 Clone this repo to get started quickly with all the folders and stuff that you like to have.
 
 ```
-mkdir project_name
 git clone git@github.com:gamemash/skeleton.git project_name
 ```
 
