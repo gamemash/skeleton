@@ -1,0 +1,18 @@
+Project Name
+------------
+
+This is a skeleton for javascript projects.
+
+
+About
+-----
+
+`src` folder contains all the source code
+`public` folder contains the final build assets
+
+Usage
+-----
+
+To start developing just run `make develop`
+
+To compile run `make`
